@@ -1,7 +1,0 @@
-// 画面内に敵が１体いるときに、敵にマーキングする
-/mk off <attack1>
-/mk off <attack2>
-/mk off <attack3>
-/mk off <attack4>
-/mk off <attack5>
-/mk attack1 <t>
